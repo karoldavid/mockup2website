@@ -1,1 +1,5 @@
+http://udacity.github.io/frontend-nanodegree-styleguide/
+http://getbootstrap.com/css/
+GIMP (GNU Image Manipulation Program)
+http://validator.w3.org/check
 https://jigsaw.w3.org/css-validator/validator

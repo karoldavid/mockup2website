@@ -33,6 +33,11 @@ body {
    padding: 2.15em;
 }
 
+li {
+  line-height: 2.28;
+  letter-spacing: 0.075em;
+}
+
 .article {
   padding-top: 1.2em;
 }
@@ -40,16 +45,4 @@ body {
 p {
   line-height: 2.28;
   letter-spacing: 0.075em;
-}
-
-ul li {
-  line-height: 2.28;
-  letter-spacing: 0.075em;
-}
-
-.mockup-overlay {
-   top: 0;
-   position: absolute;
-   z-index: -1;
-   opacity: 0.4;
 }
