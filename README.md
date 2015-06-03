@@ -7,3 +7,8 @@ https://www.udacity.com/course/nd001
 
 http://karoldavid.github.io/mockup2website/
 
+### Description
+You will be provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS
+
+### Contact
+If you want, email me: k.zysk@zoho.com
